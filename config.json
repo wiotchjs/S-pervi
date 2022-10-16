@@ -1,0 +1,109 @@
+{
+    "bot": {
+        "owner": "dev id",
+        "prefix": ".",
+        "BotStatus": "❤️",
+        "BotFooter": "was here!",
+        "cooldown": 8
+    },
+    "penals": {
+        "ban": {
+            "staff": "938862652262842388",
+            "log": "938891760636133467",
+            "limit": 3
+        },
+        "jail": {
+            "staff": "939247301933801553",
+            "roles": "938862809951920229",
+            "log": "938891760636133467",
+            "channel": "939249245125505064",
+            "limit": 5
+        },
+        "mute": {
+            "staff": "938862734848700486",
+            "roles": "938862872761630791",
+            "log": "938891760636133467",
+            "limit": 5
+        },
+            "voicemute": {
+            "staff": "938862734848700486",
+            "roles": "9177573453454354333063491604",
+            "log": "938891760636133467",
+            "limit": 5
+        },
+        "warn": {
+            "staff": "938862652262842388",
+            "log": "938891760636133467"
+        },
+        "transport": {
+            "staff": "939247724988096533"
+        },
+        "points": {
+            "mutepoints": "10",
+            "banpoints": "30",
+            "jailpoints": "20",
+            "warnpoints": "5"
+        }
+    },
+    "logs": {
+        "taglog": "938891663353446420",
+        "rollog": "938891871462260746",
+        "messagelog": "938891871422260746",
+        "seslog": "938891815061422100"
+    },
+    "roles": {
+        "booster": "929645587291312169",
+        "vip": "938862557270253638",
+        "sponsor": "939247507375022090",
+        "müzisyen": "907231224152608799",
+        "team": "938863546794655854"
+    },
+    "channels": {
+        "chat": "938892945933889618",
+        "voicechannel": "939052620700598343",
+        "welcomechannel": "939834702909562900",
+        "rules": "938861666156838932"
+    },
+    "kategoriler": {
+        "publickategorisi": "938893934556487791"
+    },
+    "registration": {
+        "unregistered": "938862254739324978",
+        "man": ["939641659552055336", "939834175383543848"],
+        "woman": ["939641660248305716", "939834174838288435"],
+        "yetkilialim": "940298235464007800",
+		"botcommands": "938918121954226197",
+        "staff": "938918121954226197",
+        "enaltyetkilirolü": "939049846697001040",
+        "GuilDTag": "Tag",
+        "GuilDTag2": "",
+        "GuilDTag3": "",
+        "GuilDTag4": "",
+        "TagSymbol": "•",
+        "autonickname": "• İsim | Yaş",
+        "symbol": "|",
+        "suspecios": "938863340330037258",
+        "susoeciosnickname": "Şüpheli Hesap",
+        "yasaklıtag": "938862884035891241",
+        "oneman": "939641659552055336",
+        "onewoman": "939641660248305716",
+        "GuildDiscrim": "Etiket Tag",
+        "minage": 13, 
+        "purchase": false
+    },
+    "Guild": {
+        "GuildID": "Sunucu Id",
+        "GuilDName": "Sunucu Adı",
+        "GuildOwnerRole": ["Sunucu Owner Rol Id"]
+    },
+    "emojis": {
+        "tada": "cekilis emojisi",
+        "yes": "onay emojisi",
+        "no": "red emojisi"
+    },
+        "buttons": {
+            "giveaway": "ceklis katlcmsıı",
+            "activity": "etklnk katılıcmı"
+        }
+    }
+    
